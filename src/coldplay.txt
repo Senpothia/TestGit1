@@ -10,6 +10,8 @@ si de veras prefiero esta
 
 initiamos un cmabio des de git. Pero por fin lo guardo!!
 
+Mira ves! Pongo otro mensaje desde Git.
+
 Come up to meet you
 Tell you I'm sorry
 You don't know how lovely you are
