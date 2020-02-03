@@ -13,7 +13,6 @@ initiamos un cmabio des de git. Pero por fin lo guardo!!
 Mira ves! Pongo otro mensaje desde Git: mensaje inicial.
 
 Aqui pongo un mensaje desde eclipse! Este lo guardo tambien
-
 Come up to meet you
 Tell you I'm sorry
 You don't know how lovely you are
