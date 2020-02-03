@@ -4,9 +4,15 @@ Cambio arriba
 Cambio 5
 
 un cambio pero desde eclipse
+
 no quiero el cambio desde git prefiero el de eclipse
 si de veras prefiero esta   
-initiamos un cmabio des de git
+
+initiamos un cmabio des de git. Pero por fin lo guardo!!
+
+Mira ves! Pongo otro mensaje desde Git: mensaje inicial.
+
+Aqui pongo un mensaje desde eclipse! Este lo guardo tambien
 
 Come up to meet you
 Tell you I'm sorry
