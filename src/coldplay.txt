@@ -22,6 +22,8 @@ Aqui pongo un mensaje desde eclipse! Este lo guardo tambien
 Come up to meet you
 Tell you I'm sorry
 You don't know how lovely you are
+/////// Mensaje desde eclipse conflictivo con el de git  //////////
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 I had to find you
 Tell you I need you
 Tell you I set you apart
