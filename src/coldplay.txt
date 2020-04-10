@@ -60,3 +60,4 @@ Cambio abajo
 un changement depuis win10 et la console git
 Un changement depuis le remote à recupéper depuis la console git sur win10
 Ok je l'ai bien récupérer, je le retourne modifié depuis win10
+modification sur la branche version 1 depuis win10
