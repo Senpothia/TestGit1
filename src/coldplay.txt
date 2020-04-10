@@ -56,7 +56,13 @@ Tell me you love me
 Come!
 
 Cambio abajo
+
 Modification faite depuis win10
+
+Modification depuis github
+
+finalement je garde les deux modif au moment de la résolution du conflit de push
+
 
 un changement depuis win10 et la console git
 Un changement depuis le remote à recupéper depuis la console git sur win10
